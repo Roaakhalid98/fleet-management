@@ -1,0 +1,25 @@
+# ========================
+# Node / Frontend
+# ========================
+frontend/node_modules/
+frontend/.next/
+frontend/.env.local
+frontend/build/
+
+# ========================
+# PHP / Laravel / Backend
+# ========================
+backend/vendor/
+backend/node_modules/
+backend/.env
+backend/storage/
+backend/bootstrap/cache/
+
+# ========================
+# OS / IDE files
+# ========================
+.DS_Store
+*.log
+*.cache
+*.idea/
+*.vscode/
